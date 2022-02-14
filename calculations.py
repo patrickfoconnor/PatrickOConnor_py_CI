@@ -2,7 +2,7 @@
 
 # Simple addition function that should pass
 def addition(a, b):
-    product = a * b
+    product = a / b
     return product
 
 # Simple subtraction function that should pass
